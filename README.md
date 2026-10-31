@@ -23,3 +23,10 @@ Foram realizados testes utilizando várias imagens de exemplo, organizadas nas s
 - **Permutação de píxeis** — reorganização das posições dos píxeis através da sequência caótica.
 - **S-Box dinâmica** — substituição dos valores dos píxeis.
 - **XOR** — operação de difusão utilizando bytes derivados da sequência caótica.
+
+## Como executar
+
+Para executar o script, utiliza o seguinte comando no terminal:
+
+```bash
+python teste_encriptacao_3d_mmhm.py <imagem>.png
